@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
-    var myString = "Hello Saurabh"
+fun main() {
+    val myString = "Hello Saurabh"
     print(myString)
 }
